@@ -1,7 +1,7 @@
 .. _starting:
 
-Basic Statistical Visualization
-===================================
+Creating a chart
+================
 
 (This tutorial is adapted from `Vega-Lite's documentation
 <http://vega.github.io/vega-lite/tutorials/getting_started.html>`_)
